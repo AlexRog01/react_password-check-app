@@ -32,9 +32,9 @@ export const Form = () => {
     const password = event.target.value;
     setPassValue(password);
 
-    const hasLetters = /[a-zA-Zа-яА-Я]/.test(password);
-    const hasDigits = /\d/.test(password);
-    const hasSymbols = /[^a-zA-Zа-яА-Я\d]/.test(password);
+    const hasLetters = /\p{L}/u.test(password);
+    const hasDigits = /\p{N}/u.test(password);
+    const hasSymbols = /[^\p{L}\p{N}]/u.test(password);
 
     if (password.length === 0) { // empty line check
       setFirstLineColor(Colors.Gray);
