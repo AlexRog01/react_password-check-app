@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react_password-check-app/static/css/main.02619635.css",
-    "main.js": "/react_password-check-app/static/js/main.43b137fc.js",
+    "main.js": "/react_password-check-app/static/js/main.aa30587f.js",
     "static/media/fa-solid-900.ttf": "/react_password-check-app/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
     "static/media/fa-brands-400.ttf": "/react_password-check-app/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
     "static/media/fa-solid-900.woff2": "/react_password-check-app/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
@@ -12,10 +12,10 @@
     "static/media/fa-v4compatibility.woff2": "/react_password-check-app/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
     "index.html": "/react_password-check-app/index.html",
     "main.02619635.css.map": "/react_password-check-app/static/css/main.02619635.css.map",
-    "main.43b137fc.js.map": "/react_password-check-app/static/js/main.43b137fc.js.map"
+    "main.aa30587f.js.map": "/react_password-check-app/static/js/main.aa30587f.js.map"
   },
   "entrypoints": [
     "static/css/main.02619635.css",
-    "static/js/main.43b137fc.js"
+    "static/js/main.aa30587f.js"
   ]
 }
